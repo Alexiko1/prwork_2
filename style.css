@@ -1,0 +1,19 @@
+body {
+    padding: 5px;
+  }
+    body.dark_theme {
+    background-color: rgb(19, 18, 18);
+    color:rgb(240, 197, 89);
+    
+  }
+  body a {
+    color: inherit;
+  }
+
+  button {
+    background-color: rgb(211, 207, 207);
+    border-radius: 4px;
+    box-shadow: 0 8px 16px 0 rgba(103, 102, 102, 0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  }
+
+  

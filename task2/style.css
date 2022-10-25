@@ -1,0 +1,11 @@
+body {
+    padding: 5px;
+  }
+    body.dark_theme {
+    background-color: rgb(19, 18, 18);
+    color:rgb(240, 197, 89);
+    
+  }
+  body a {
+    color: inherit;
+  }
